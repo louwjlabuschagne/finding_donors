@@ -2,6 +2,23 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+## Knowledge Nuggets from Reviewers
+### Imbalanced dataset
++ https://blog.dominodatalab.com/imbalanced-datasets/
++ https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
++ https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+
+### One Hot Encoding
++ https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
++ https://pbpython.com/categorical-encoding.html
+
+### Performance Metrics for Classification problems in Machine Learning
++ https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b
+
+### How do you choose a machine learning algorithm?
+<img src='resources/2018-03-03_09_06_47-Module_Decision_Tree_v_0_6.png'>
++ https://www.quora.com/How-do-you-choose-a-machine-learning-algorithm
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
