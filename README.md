@@ -16,8 +16,27 @@
 + https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b
 
 ### How do you choose a machine learning algorithm?
-<img src='resources/2018-03-03_09_06_47-Module_Decision_Tree_v_0_6.png'>
 + https://www.quora.com/How-do-you-choose-a-machine-learning-algorithm
+<img src='resources/2018-03-03_09_06_47-Module_Decision_Tree_v_0_6.png'>
+
+### Layman's Model Explanations
++ https://www.quora.com/What-is-logistic-regression
++ https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
++ http://blog.echen.me/2011/03/14/laymans-introduction-to-random-forests/
++ https://prateekvjoshi.com/2014/05/05/what-is-adaboost/
+
+### GridSearch vs RandomGridSearch
++ https://medium.com/rants-on-machine-learning/smarter-parameter-sweeps-or-why-grid-search-is-plain-stupid-c17d97a0e881s
+
+### Feature Selection
++ https://www.analyticsvidhya.com/blog/2016/10/exclusive-interview-ama-with-data-scientist-rohan-rao-analytics-vidhya-rank-4/
++ https://scikit-learn.org/stable/modules/feature_selection.html
++ https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
++ https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html
++ https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html
++ https://machinelearningmastery.com/an-introduction-to-feature-selection/
++ https://topepo.github.io/caret/recursive-feature-elimination.html
++ http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
 
 ### Install
 
